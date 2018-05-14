@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day1JavaCalculatorHomeworkAndy.iml" filepath="$PROJECT_DIR$/.idea/modules/Day1JavaCalculatorHomeworkAndy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day1JavaCalculatorHomeworkAndy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Day1JavaCalculatorHomeworkAndy_main.iml" group="Day1JavaCalculatorHomeworkAndy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Day1JavaCalculatorHomeworkAndy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Day1JavaCalculatorHomeworkAndy_test.iml" group="Day1JavaCalculatorHomeworkAndy" />
     </modules>
   </component>
 </project>
