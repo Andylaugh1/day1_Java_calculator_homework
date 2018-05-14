@@ -22,5 +22,5 @@ public class Calculator {
     public int divideNums(){
         return this.num1 / this.num2;
     }
-    
+
 }
