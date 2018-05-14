@@ -19,5 +19,8 @@ public class Calculator {
         return this.num1 * this.num2;
     }
 
-
+    public int divideNums(){
+        return this.num1 / this.num2;
+    }
+    
 }

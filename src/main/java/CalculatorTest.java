@@ -8,21 +8,26 @@ public class CalculatorTest {
 
     @Before
     public void before(){
-        calculator = new Calculator(7, 8);
+        calculator = new Calculator(20, 5);
     }
 
     @Test
     public void addNums(){
-        assertEquals(15, calculator.addNums());
+        assertEquals(25, calculator.addNums());
     }
 
     @Test
     public void subtractNums(){
-        assertEquals(-1, calculator.subtractNums());
+        assertEquals(15, calculator.subtractNums());
     }
 
     @Test
     public void multiplyNums(){
-        assertEquals(56, calculator.multiplyNums());
+        assertEquals(100, calculator.multiplyNums());
+    }
+
+    @Test
+    public void divideNums(){
+        assertEquals(4, calculator.divideNums());
     }
 }
