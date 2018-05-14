@@ -20,4 +20,9 @@ public class CalculatorTest {
     public void subtractNums(){
         assertEquals(-1, calculator.subtractNums());
     }
+
+    @Test
+    public void multiplyNums(){
+        assertEquals(56, calculator.multiplyNums());
+    }
 }
